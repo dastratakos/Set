@@ -11,9 +11,9 @@ Time spent: **30** hours spent in total
 
 The following functionality is completed:
 
-* [x] 
-* [x] 
-* [x] 
+* [x] 1
+* [x] 2
+* [x] 3
 
 ## Video Walkthrough
 
