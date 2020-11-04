@@ -1,7 +1,7 @@
 # Set
 
 ## Dean Stratakos
-### March 2020
+### April 2, 2020
 
 **Set** is a game.
 
